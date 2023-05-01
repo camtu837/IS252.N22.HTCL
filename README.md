@@ -12,7 +12,7 @@ Tên môn học: Khai thác dữ liệu
 Mã môn học: IS252
 Mã lớp: IS252.N22.HTCL
 Năm học: 2023-2024
-Giảng viên: Cao Thị Nhạn - nhanct@uit.edu.vn
+Giảng viên: Ts. Cao Thị Nhạn - nhanct@uit.edu.vn
             Nguyễn Hồ Duy Trí - trinhd@uit.edu.vn
 ```
 **Thông tin nhóm 🐤** 
