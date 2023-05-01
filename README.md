@@ -5,7 +5,7 @@
 
 ---
 <!--START_SECTION:waka-->
-**Thôn tin môn học 🐤** 
+**Thông tin môn học 🐤** 
 
 ```text
 Tên môn học: Khai thác dữ liệu
