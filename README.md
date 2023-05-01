@@ -16,17 +16,16 @@ Giảng viên:
 
 ```
 **Thôn tin nhóm 🐤** 
-```text
+
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
 | 20520837 | Nguyễn Cẩm Tú | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
 | 20520797 | Nguyễn Thu Thủy | 20520797@gm.uit.edu.vn |  
 | 20521847 | Nguyễn Thanh Sơn | 20521847@gm.uit.edu.vn |
 
-📊 **What are I use for my subject!?** 
-```
 
 ```text
+📊 **What are I use for my subject!?** 
 
 💬 Languages: 
 Python                   █████████████████████████   100.0% 
